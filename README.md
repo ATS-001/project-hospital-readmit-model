@@ -126,6 +126,6 @@ Special thanks to Aishwarya Jayaprakash (https://github.com/Aiswarya-Jayaprakash
 ---
 
 ## 👤 Author
-**Aaron Thalakkottor Sooraj" - B.Tech Computer Science & Engineering Student
+**Aaron Thalakkottor Sooraj** - B.Tech Computer Science & Engineering Student
 
 ---
