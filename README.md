@@ -126,7 +126,6 @@ Special thanks to Aishwarya Jayaprakash (https://github.com/Aiswarya-Jayaprakash
 ---
 
 ## 👤 Author
-* **Aaron Thalakkottor Sooraj" - B.Tech Computer Science & Engineering Student
-* Project built for the Google AI Agents Intensive Capstone Project (2026)
+**Aaron Thalakkottor Sooraj" - B.Tech Computer Science & Engineering Student
 
 ---
