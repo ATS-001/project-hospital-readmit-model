@@ -751,5 +751,6 @@ st.markdown("""
 <div class="foot">
   <span class="foot-mark"><span class="glyph">◈</span> Pulse</span>
   <span class="foot-note">XGBoost Model &middot; Research Prototype &middot; Not for Clinical Deployment</span>
+  <span class="foot-note">Aaron Thalakkottor Sooraj &middot; Designed & Developed by ATS-PDZ &middot; © Since 2023</span>
 </div>
 """, unsafe_allow_html=True)
