@@ -121,7 +121,7 @@ This application is a **research prototype** and is not currently intended for c
 
 ## 🔮 Acknowledgments
 
-Special thanks to Aishwarya Jayaprakash (https://github.com/Aiswarya-Jayaprakash) for the baseline pipeline code, structural guidelines, and workshop instruction that enabled this end-to-end model and deployment.
+Special thanks to Aishwarya Jayaprakash ([Github](https://github.com/Aiswarya-Jayaprakash)) for the baseline pipeline code, structural guidelines, and workshop instruction that enabled this end-to-end model and deployment.
 
 ---
 
